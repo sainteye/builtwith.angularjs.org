@@ -1580,6 +1580,30 @@
       ]
     },
     {
+      "name": "Socialite IM",
+      "thumb": "socialite/thumb.png",
+      "desc": "An innovation chat app which can share music, movie, restaurant, link, youtube.... Cross platform in iOS, Android and Web (built with AngularJs)", 
+      "url": "http://socialites.im/",
+      "info": "https://itunes.apple.com/us/app/socialites-im/id649799481",
+      "submitter": "sainteye",
+      "submissionDate": "2013-09-12",
+      "tags": [
+        "Production",
+        "Entertainment",
+        "Messenger",
+        "CRUD",
+        "Local Storage",
+        "AppCache",
+        "jQuery",
+        "Awesome",
+        "Mobile",
+        "Django",
+        "Drag and Drop",
+        "Free Music",
+        "MongoDB"
+      ]
+    },
+    {
       "name": "Dailybreak",
       "thumb": "dailybreak/thumb.jpg",
       "desc": "Mobile application built on Angular JS inside of Cordova - using SQL lite, CSS transitions and local storage",
